@@ -1,0 +1,7 @@
+C:\Users\Kab-31-13\Desktop\Acl\bin\Debug\Acl.exe.config
+C:\Users\Kab-31-13\Desktop\Acl\bin\Debug\Acl.exe
+C:\Users\Kab-31-13\Desktop\Acl\bin\Debug\Acl.pdb
+C:\Users\Kab-31-13\Desktop\Acl\obj\Debug\Acl.csproj.AssemblyReference.cache
+C:\Users\Kab-31-13\Desktop\Acl\obj\Debug\Acl.csproj.CoreCompileInputs.cache
+C:\Users\Kab-31-13\Desktop\Acl\obj\Debug\Acl.exe
+C:\Users\Kab-31-13\Desktop\Acl\obj\Debug\Acl.pdb

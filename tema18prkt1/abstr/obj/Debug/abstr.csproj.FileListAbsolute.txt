@@ -1,0 +1,7 @@
+C:\Users\Kab-31-13\Desktop\abstr\bin\Debug\abstr.exe.config
+C:\Users\Kab-31-13\Desktop\abstr\bin\Debug\abstr.exe
+C:\Users\Kab-31-13\Desktop\abstr\bin\Debug\abstr.pdb
+C:\Users\Kab-31-13\Desktop\abstr\obj\Debug\abstr.csproj.AssemblyReference.cache
+C:\Users\Kab-31-13\Desktop\abstr\obj\Debug\abstr.csproj.CoreCompileInputs.cache
+C:\Users\Kab-31-13\Desktop\abstr\obj\Debug\abstr.exe
+C:\Users\Kab-31-13\Desktop\abstr\obj\Debug\abstr.pdb
